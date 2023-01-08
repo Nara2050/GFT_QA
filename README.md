@@ -1,17 +1,17 @@
-# GFT_QA
+# :sparkles: GFT_QA
 Projeto dia-a-dia de um QA | Bootcamp DIO GFT
 
 ### Users Story
-Histórias do usuário detalhadas
+- Histórias do usuário detalhadas
 
 ### Case Tests
-Testes passo a passo e BDD executados
+- Testes passo a passo e BDD executados
 
 ### Clico de Vida do Bug
-Fluxograma 
+- Fluxograma 
 
 ### Mind Maps
-Mapa mental de uma história de usuário
+- Mapa mental de uma história de usuário
 
 ### Fluxo de Trabalho JIRA
-Fluxograma definido
+- Fluxograma definido
